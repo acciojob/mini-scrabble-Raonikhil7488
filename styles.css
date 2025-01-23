@@ -1,2 +1,18 @@
-
 /* Your CSS Code here. */
+ body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+    #evaluatedText {
+      font-size: 24px;
+      padding: 10px;
+      width: 400px;
+      color: #000;
+      margin-bottom: 20px;
+    }
+    #letterCount {
+      font-size: 28px;
+      font-weight: bold;
+      color: black;
+    }
